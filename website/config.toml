@@ -15,13 +15,13 @@
 baseURL = "https://martas-a-domi.cz/"
 languageCode = "cz-cs"
 defaultContentLanguage = "cs"
-# defaultContentLanguageInSubdir = false
-title = "Hugo tranquilpeak theme"
+defaultContentLanguageInSubdir = true
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+# disqusShortname = "hugo-tranquilpeak-theme"
 
 paginate = 7
 canonifyurls = true
+
 
 [languages]
   [languages.cs]
@@ -36,21 +36,20 @@ canonifyurls = true
     [languages.cs.params]
       subtitle = 'Svatbaaa!'
 
-      [languages.cs.author]
-        name = "Martin holoubek & Dominika Hubová"
-
-        bio = "Super bio with markdown support **COOL**"
-        job = "NewNew"
-        location = "France"
+        [languages.cs.author]
+        name = "Společně až ke hvězdám..."
+        bio = "Marťas & Domi"
+        job = "17.8.2024"
+        location = "Jitkovský Mlýn"
         # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
         # gravatarEmail = "thibaud.lepretre@gmail.com"
         # Your profile picture
         # Overwritten by your gravatar image if `author.gravatarEmail` is filled
         picture = "img/icons8-pixel-heart.png"
         # Your Twitter username without the @. E.g : thibaudlepretre
-        twitter = "thibaudlepretre"
+        # twitter = "thibaudlepretre"
         # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
-        googlePlus = "+ThibaudLepretre"
+        # googlePlus = "+ThibaudLepretre"
 
     [[languages.cs.menu.main]]
       weight = 1
@@ -95,6 +94,75 @@ canonifyurls = true
       url = "../en"
 
 
+  [languages.sk]
+    contentDir = 'content/sk'
+    disabled = false
+    languageCode = 'sk-sk'
+    languageDirection = 'ltr'
+    languageName = 'Slovakian'
+    title = 'Marťas & Domi'
+    weight = 1
+
+    [languages.sk.params]
+      subtitle = 'Svatbaaa!'
+
+        [languages.sk.author]
+        name = "Spoločne až ku hviezdam"
+        bio = "Marťas & Domi"
+        job = "17.8.2024"
+        location = "Jitkovský Mlýn"
+        # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
+        # gravatarEmail = "thibaud.lepretre@gmail.com"
+        # Your profile picture
+        # Overwritten by your gravatar image if `author.gravatarEmail` is filled
+        picture = "img/icons8-pixel-heart.png"
+        # Your Twitter username without the @. E.g : thibaudlepretre
+        # twitter = "thibaudlepretre"
+        # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
+        # googlePlus = "+ThibaudLepretre"
+
+    [[languages.sk.menu.main]]
+      weight = 1
+      identifier = "home"
+      name = "Domů"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+      url = "/"
+
+    [[languages.sk.menu.main]]
+      weight = 2
+      identifier = "about"
+      name = "O nás"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+      url = "/#about"
+
+    [[languages.sk.menu.main]]
+      weight = 3
+      identifier = "github"
+      name = "GitHub"
+      pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
+      url = "https://github.com/holoubekm/holoubkovi"
+
+    [[languages.sk.menu.misc]]
+      weight = 4
+      identifier = "slovakian"
+      name = "Slovensky"
+      pre = "<i class=\"sidebar-button-icon fi fi-sk\" aria-hidden=\"true\"></i>"
+      url = "../sk"
+
+    [[languages.sk.menu.misc]]
+      weight = 5
+      identifier = "czech"
+      name = "Česky"
+      pre = "<i class=\"sidebar-button-icon fi fi-cz\" aria-hidden=\"true\"></i>"
+      url = "../cs"
+
+    [[languages.sk.menu.misc]]
+      weight = 6
+      identifier = "english"
+      name = "English"
+      pre = "<i class=\"sidebar-button-icon fi fi-us\" aria-hidden=\"true\"></i>"
+      url = "../en"
+
 
   [languages.en]
     contentDir = 'content/en'
@@ -103,9 +171,17 @@ canonifyurls = true
     languageDirection = 'ltr'
     languageName = 'English'
     title = 'Marty & Domi'
-    weight = 2
+    weight = 1
+
     [languages.en.params]
       subtitle = 'Weddiiing!'
+
+        [languages.en.author]
+        name = "Together to the stars..."
+        bio = "Marty & Domi"
+        job = "17.8.2024"
+        location = "Jitkovský Mlýn"
+        picture = "img/icons8-pixel-heart.png"
 
     [[languages.en.menu.main]]
       weight = 1
@@ -113,6 +189,42 @@ canonifyurls = true
       name = "Home"
       pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
       url = "/"
+
+    [[languages.en.menu.main]]
+      weight = 2
+      identifier = "about"
+      name = "About Us"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+      url = "/#about"
+
+    [[languages.en.menu.main]]
+      weight = 3
+      identifier = "github"
+      name = "GitHub"
+      pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
+      url = "https://github.com/holoubekm/holoubkovi"
+
+    [[languages.en.menu.misc]]
+      weight = 4
+      identifier = "slovakian"
+      name = "Slovensky"
+      pre = "<i class=\"sidebar-button-icon fi fi-sk\" aria-hidden=\"true\"></i>"
+      url = "../sk"
+
+    [[languages.en.menu.misc]]
+      weight = 5
+      identifier = "czech"
+      name = "Česky"
+      pre = "<i class=\"sidebar-button-icon fi fi-cz\" aria-hidden=\"true\"></i>"
+      url = "../cs"
+
+    [[languages.en.menu.misc]]
+      weight = 6
+      identifier = "english"
+      name = "English"
+      pre = "<i class=\"sidebar-button-icon fi fi-us\" aria-hidden=\"true\"></i>"
+      url = "../en"
+
 
 # [permalinks]
 #   posts = "/:year/:month/:slug/"
@@ -131,6 +243,10 @@ canonifyurls = true
     endLevel = 3
     ordered = false
     startLevel = 1
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # ------------
 # Sidebar menu
@@ -194,6 +310,9 @@ canonifyurls = true
   # Description
   # -----------
   description = "Landing page!"
+
+  # Disable dates/times
+  dateFormat = " "
 
   # ------------------
   # Syntax highlighter
@@ -259,7 +378,9 @@ canonifyurls = true
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image, for example `cover.jpg` in folder `static/images/`,
   # and use relative url : `images/cover.jpg`
-  coverImage = "images/cover.jpg"
+  coverImage = "img/pexels-pedro-dutra-11154746.jpg"
+
+  mainBackgroundColor = "red"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
@@ -456,5 +577,5 @@ canonifyurls = true
   # Footer configuration
   # --------------------
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
-  #  [params.footer]
-  #    copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+   # [params.footer]
+   #   copyright = "Společně až ke hvězdám"
