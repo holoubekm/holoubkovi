@@ -8,11 +8,18 @@
     <language>cz-cs</language>
     <atom:link href="https://martas-a-domi.cz/cs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A je to!</title>
-      <link>https://martas-a-domi.cz/cs/</link>
+      <title></title>
+      <link>https://martas-a-domi.cz/cs/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://martas-a-domi.cz/cs/</guid>
-      <description>Moc si vážíme toho, že jste se rozhodli strávit čas s námi :))&#xA;your highlighted text asdfasdfasdf&#xA;Jak se na nás připravit? Jak se k nám dostanete? Access Map Doprava Autem: Penzion Jitkovský Mlýn, 583 01 Jitkov, Chotěboř Vlakem: Havlíčkův Brod (cca 16km od cíle) Autobusem: Havlíčkův Brod (vlakové / autobusové nádr.) → Jitkov (cca 30m) Mapa Jsem pozván na svatbu, nebo jen veselku? Můžu s sebou vzít děti? Jasně!</description>
+      <guid>https://martas-a-domi.cz/cs/about-us/</guid>
+      <description>&amp;nbsp; A je to Svatbaaa! Ahoj 😅! Jsme kluk a holka, co se rozhodli, že chtějí být spolu, už napořád. Byli bychom moc rádi, kdybyste do toho šli s námi.&#xA;Dominika Haló, tady Dominika. Elegantní slečna, občasná pekařka, milovnice všeho rostoucího, která nemá ráda vlezlou zimu! Dominika už od dětství čarovala, nedřív se naučila sama číst a pak se zabydlela ve svěre Harryho Pottera ⚡️. V plnění snů jí nezabránilo ani bilinguální francouzské gymnázium.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://martas-a-domi.cz/cs/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://martas-a-domi.cz/cs/main/</guid>
+      <description>&amp;nbsp; A je to Svatbaaa! Moc si vážíme toho, že jste se rozhodli strávit čas s námi :))&#xA;Moc si vážíme, že s námi chceme strávit náš slavnostní den. Vytvořili jsme proto společně tenhle web, abychom Vám to usnadnili.&#xA;Ale kdo jsme vlastně my?&#xA;your highlighted text asdfasdfasdf&#xA;Jak se na nás připravit? Jak se k nám dostanete? Rychlé otázky Co dělat, pokud nemůžu dorazit? Budete se zlobit? Jen trošku :) Nic se neděje.</description>
     </item>
   </channel>
 </rss>

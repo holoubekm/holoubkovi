@@ -56,7 +56,7 @@ canonifyurls = true
       identifier = "home"
       name = "Domů"
       pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-      url = "/"
+      url = "./main"
 
     [[languages.cs.menu.main]]
       weight = 2
@@ -77,21 +77,21 @@ canonifyurls = true
       identifier = "slovakian"
       name = "Slovensky"
       pre = "<i class=\"sidebar-button-icon fi fi-sk\" aria-hidden=\"true\"></i>"
-      url = "../sk"
+      url = "../sk/main"
 
     [[languages.cs.menu.misc]]
       weight = 5
       identifier = "czech"
       name = "Česky"
       pre = "<i class=\"sidebar-button-icon fi fi-cz\" aria-hidden=\"true\"></i>"
-      url = "../cs"
+      url = "../cs/main"
 
     [[languages.cs.menu.misc]]
       weight = 6
       identifier = "english"
       name = "English"
       pre = "<i class=\"sidebar-button-icon fi fi-us\" aria-hidden=\"true\"></i>"
-      url = "../en"
+      url = "../en/main"
 
 
   [languages.sk]
@@ -147,21 +147,21 @@ canonifyurls = true
       identifier = "slovakian"
       name = "Slovensky"
       pre = "<i class=\"sidebar-button-icon fi fi-sk\" aria-hidden=\"true\"></i>"
-      url = "../sk"
+      url = "../sk/main"
 
     [[languages.sk.menu.misc]]
       weight = 5
       identifier = "czech"
       name = "Česky"
       pre = "<i class=\"sidebar-button-icon fi fi-cz\" aria-hidden=\"true\"></i>"
-      url = "../cs"
+      url = "../cs/main"
 
     [[languages.sk.menu.misc]]
       weight = 6
       identifier = "english"
       name = "English"
       pre = "<i class=\"sidebar-button-icon fi fi-us\" aria-hidden=\"true\"></i>"
-      url = "../en"
+      url = "../en/main"
 
 
   [languages.en]
@@ -209,21 +209,21 @@ canonifyurls = true
       identifier = "slovakian"
       name = "Slovensky"
       pre = "<i class=\"sidebar-button-icon fi fi-sk\" aria-hidden=\"true\"></i>"
-      url = "../sk"
+      url = "../sk/main"
 
     [[languages.en.menu.misc]]
       weight = 5
       identifier = "czech"
       name = "Česky"
       pre = "<i class=\"sidebar-button-icon fi fi-cz\" aria-hidden=\"true\"></i>"
-      url = "../cs"
+      url = "../cs/main"
 
     [[languages.en.menu.misc]]
       weight = 6
       identifier = "english"
       name = "English"
       pre = "<i class=\"sidebar-button-icon fi fi-us\" aria-hidden=\"true\"></i>"
-      url = "../en"
+      url = "../en/main"
 
 
 # [permalinks]

@@ -20,7 +20,7 @@ Moc si vážíme toho, že jste se rozhodli strávit čas s námi :))
 
 Moc si vážíme, že s námi chceme strávit náš slavnostní den. Vytvořili jsme proto společně tenhle web, abychom Vám to usnadnili.
 
-[Ale kdo jsme vlastně my?](./about-us.html)
+[Ale kdo jsme vlastně my?](../about-us)
 
 
 {{< hl-text danger >}}
@@ -190,3 +190,5 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 * Ke generování obsahu používáme nástroj [Hugo]](https://gohugo.io/).
 * Statický obsah je poskytován skrze [GitHub Page](https://github.com/holoubekm/holoubkovi)
 * Ke spuštění vlastní domány stačilo vytvořit příslušné `A`, `AAAA` a `CNAME` záznamy.
+
+<p style="margin: 0px; "> &nbsp; </p>
