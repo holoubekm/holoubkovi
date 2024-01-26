@@ -1,5 +1,5 @@
 ---
-title: "A je to!"
+# title: "A je to!"
 # date: 2014-10-29
 # tags:
 # - wedding
@@ -7,12 +7,20 @@ title: "A je to!"
 # - dominika
 # thumbnailImagePosition: left
 # thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-6-140.jpg
-# showActions: false
+showActions: false
 ---
 
 <!-- {{< toc >}} -->
 
+<!-- <br/> -->
+<p style="margin: 0px; line-height: 0px"> &nbsp; </p>
+
+# A je to Svatbaaa!
 Moc si vážíme toho, že jste se rozhodli strávit čas s námi :))
+
+Moc si vážíme, že s námi chceme strávit náš slavnostní den. Vytvořili jsme proto společně tenhle web, abychom Vám to usnadnili.
+
+[Ale kdo jsme vlastně my?](./about-us.html)
 
 
 {{< hl-text danger >}}
@@ -25,14 +33,28 @@ your highlighted text
 
 # Jak se k nám dostanete?
 
-{{< image src="../img/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9Kc19Ody9NQUZsS3dKc19Ody8xL3AucG5n 14.35.04.png" >}}
+<!-- {{< image src="../img/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9Kc19Ody9NQUZsS3dKc19Ody8xL3AucG5n 14.35.04.png" >}} -->
+
+# Rychlé otázky
+
+## Co dělat, pokud nemůžu dorazit? Budete se zlobit?
+
+Jen trošku :) Nic se neděje. Stačí se ozvat Martinovi, nebo Vojtovi a je to :))
 
 
-### Access Map
-### Doprava
-* Autem: Penzion Jitkovský Mlýn, 583 01 Jitkov, Chotěboř
-* Vlakem: Havlíčkův Brod (cca 16km od cíle)
-* Autobusem: Havlíčkův Brod (vlakové / autobusové nádr.) → Jitkov (cca 30m)
+## Rád/a bych Vám vzal/a svatební dárek. Jaký?
+
+Moc děkujeme, no vážně! Oba ale cítíme, že bychom se hmotným darům nejradši vyhli.
+Pojďme si všichni společně užít den, vyhnout se problémům reálného světa a trošku se zapomenout. 
+
+> Pokud na nějaké formě dárku trváte, tak se samozřejmě mračit nebudeme. V takovém případě nás potěší drobná finanční injekce :)
+
+# Doprava
+* **Autem**: Penzion Jitkovský Mlýn, 583 01 Jitkov, Chotěboř
+* **Vlakem**: Havlíčkův Brod (cca 16km od cíle)
+* **Autobusem**: Havlíčkův Brod (vlakové / autobusové nádr.) → Jitkov (cca 30m)
+
+Během dne i noci bude jezdit svoz. Pokud nemáte vhodnout dopravu, nebo si nejste jistí, tak se na nás obraťte.
 
 ### Mapa
 
@@ -44,6 +66,24 @@ your highlighted text
 
 Jasně! Pro nejmenší máme připravený dětský koutek :)) A všude okolo se příroda a vybití :))
 
+# Ubytování
+
+V prostorách Jitkovskéh mlýna je ubytování celkem pro XY lidí. Zabydlí se v něm zejména přípravný a podpůrný tým a také přespolní kamarádi z daleka.
+
+Pro kamarády ze Slovenska je připravenou ubytování ve Světlé nad Sázavou.
+
+Se všemi se snažíme domluvit individuálně. Pokud si však nejsi jist(ý/á), neváhej a zavolej!
+
+# Kontakt
+
+**Marťas**: `+420 607 558 487`
+
+**Domi**: `+420 XXX XXX XXX`
+
+
+{{< alert warning >}}
+**Pozor:** V lokalitě Jitkovského mlýna přiliš nefunguje mobilní internet. Přidejte se s námi k detoxikační kůře.
+{{< /alert >}}
 
 # Alert
 
@@ -142,3 +182,11 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 {{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
 
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
+
+
+
+### Jak tahle stránka funguje?
+
+* Ke generování obsahu používáme nástroj [Hugo]](https://gohugo.io/).
+* Statický obsah je poskytován skrze [GitHub Page](https://github.com/holoubekm/holoubkovi)
+* Ke spuštění vlastní domány stačilo vytvořit příslušné `A`, `AAAA` a `CNAME` záznamy.

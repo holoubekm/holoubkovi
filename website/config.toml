@@ -63,7 +63,7 @@ canonifyurls = true
       identifier = "about"
       name = "O nás"
       pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-      url = "/#about"
+      url = "./about-us"
 
     [[languages.cs.menu.main]]
       weight = 3
@@ -380,7 +380,7 @@ canonifyurls = true
   # and use relative url : `images/cover.jpg`
   coverImage = "img/pexels-pedro-dutra-11154746.jpg"
 
-  mainBackgroundColor = "red"
+  mainBackgroundImage = "img/group-R6.png"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true

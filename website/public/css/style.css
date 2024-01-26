@@ -811,6 +811,8 @@ pre.code-highlight > code {
   display: block;
   min-height: 100%;
   background: #fff;
+  background-repeat: repeat;
+  background-size: 30%;
   transition: transform 0.25s ease-in-out;
   -webkit-transition: -webkit-transform 0.25s ease-in-out;
 }
@@ -2361,6 +2363,7 @@ a.fancybox {
 
 .main-content-wrap {
   display: block;
+  background: rgba(255, 255, 255, 0.8);
   max-width: 750px;
   margin: 0 auto;
   padding-right: 20px;
