@@ -27,7 +27,7 @@ Pre svadbu sme zvolili areál bývalej poľnohospodárskej usadlosti a mlyna - J
 
 Počas dňa aj noci bude jazdiť svoz. Ak nemáte vhodnú dopravu, alebo si nie ste istí, tak sa na nás [obráťte](../contact).
 
-<iframe style="border:none" src="https://frame.mapy.cz/s/rederorube" width="100%" height="400" frameborder="0"></iframe>
+<iframe style="border:none" src="https://sk.frame.mapy.cz/s/nusafalasu" width="100%" height="400" frameborder="0"></iframe>
 
 {{< alert warning >}}
 **Pozor:** V lokalite Jitkovského mlyna nefunguje mobilný internet. Pripojte sa k nám k detoxikačnej kúre.
