@@ -337,6 +337,9 @@ pre.code-highlight > code {
   display: inline-block;
   vertical-align: top;
 }
+#about #about-card #about-card-secret {
+  opacity: 0.25;
+}
 #about #about-card #about-card-job,
 #about #about-card #about-card-location,
 #about #about-card #about-card-bio {
@@ -654,7 +657,7 @@ pre.code-highlight > code {
   color: #9eabb3;
   font-size: 1.5rem;
   text-align: center;
-  margin-top: 70px;
+  margin-top: 50px;
   height: auto;
   padding: 20px 20px;
 }
@@ -971,6 +974,19 @@ pre.code-highlight > code {
 #sidebar .sidebar-profile .sidebar-profile-picture {
   display: block;
   margin: 0 auto;
+  transform: scale(1.05);
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0% {
+    transform: scale(0.95);
+  }
+  70% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(0.95);
+  }
 }
 #sidebar .sidebar-profile .sidebar-profile-name {
   font-size: 1.1em;
@@ -2110,10 +2126,12 @@ figure.highlight .line,
 .figure.left, .figure.fig-75, .figure.fig-50, .figure.fig-33, .figure.fig-25, .figure.fig-20 {
   float: left;
   margin: 2px;
+  margin-right: 20px;
 }
 .figure.right {
   float: right;
   margin: 2px;
+  margin-left: 20px;
 }
 .figure .fig-video {
   width: 100%;

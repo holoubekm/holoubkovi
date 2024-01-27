@@ -3,8 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://martas-a-domi.cz/cs/about-us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://martas-a-domi.cz/en/about-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk-sk"
+                href="https://martas-a-domi.cz/sk/about-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz-cs"
+                href="https://martas-a-domi.cz/cs/about-us/"
+                />
   </url><url>
-    <loc>https://martas-a-domi.cz/cs/main/</loc>
+    <loc>https://martas-a-domi.cz/cs/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://martas-a-domi.cz/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk-sk"
+                href="https://martas-a-domi.cz/sk/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz-cs"
+                href="https://martas-a-domi.cz/cs/contact/"
+                />
+  </url><url>
+    <loc>https://martas-a-domi.cz/cs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://martas-a-domi.cz/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk-sk"
+                href="https://martas-a-domi.cz/sk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz-cs"
+                href="https://martas-a-domi.cz/cs/"
+                />
+  </url><url>
+    <loc>https://martas-a-domi.cz/cs/info/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://martas-a-domi.cz/en/info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk-sk"
+                href="https://martas-a-domi.cz/sk/info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz-cs"
+                href="https://martas-a-domi.cz/cs/info/"
+                />
   </url><url>
     <loc>https://martas-a-domi.cz/cs/categories/</loc>
     <xhtml:link

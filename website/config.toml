@@ -41,57 +41,64 @@ canonifyurls = true
         bio = "Marťas & Domi"
         job = "17.8.2024"
         location = "Jitkovský Mlýn"
-        # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-        # gravatarEmail = "thibaud.lepretre@gmail.com"
-        # Your profile picture
-        # Overwritten by your gravatar image if `author.gravatarEmail` is filled
         picture = "img/icons8-pixel-heart.png"
-        # Your Twitter username without the @. E.g : thibaudlepretre
-        # twitter = "thibaudlepretre"
-        # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
-        # googlePlus = "+ThibaudLepretre"
+        secret = "Tady nic není :))"
 
     [[languages.cs.menu.main]]
       weight = 1
       identifier = "home"
       name = "Domů"
       pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
-      url = "./main"
+      url = "/"
 
     [[languages.cs.menu.main]]
       weight = 2
+      identifier = "info"
+      name = "Informace"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
+      url = "./info"
+
+    [[languages.cs.menu.main]]
+      weight = 3
       identifier = "about"
-      name = "O nás"
+      name = "O Nás"
       pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
       url = "./about-us"
 
     [[languages.cs.menu.main]]
-      weight = 3
+      weight = 4
+      identifier = "contact"
+      name = "Kontakt"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-address-book\" aria-hidden=\"true\"></i>"
+      url = "./contact"
+
+    [[languages.cs.menu.main]]
+      weight = 5
       identifier = "github"
       name = "GitHub"
       pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
       url = "https://github.com/holoubekm/holoubkovi"
 
     [[languages.cs.menu.misc]]
-      weight = 4
+      weight = 6
       identifier = "slovakian"
       name = "Slovensky"
       pre = "<i class=\"sidebar-button-icon fi fi-sk\" aria-hidden=\"true\"></i>"
-      url = "../sk/main"
+      url = "../sk/"
 
     [[languages.cs.menu.misc]]
-      weight = 5
+      weight = 7
       identifier = "czech"
       name = "Česky"
       pre = "<i class=\"sidebar-button-icon fi fi-cz\" aria-hidden=\"true\"></i>"
-      url = "../cs/main"
+      url = "../cs/"
 
     [[languages.cs.menu.misc]]
-      weight = 6
+      weight = 8
       identifier = "english"
       name = "English"
       pre = "<i class=\"sidebar-button-icon fi fi-us\" aria-hidden=\"true\"></i>"
-      url = "../en/main"
+      url = "../en/"
 
 
   [languages.sk]
@@ -111,57 +118,64 @@ canonifyurls = true
         bio = "Marťas & Domi"
         job = "17.8.2024"
         location = "Jitkovský Mlýn"
-        # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-        # gravatarEmail = "thibaud.lepretre@gmail.com"
-        # Your profile picture
-        # Overwritten by your gravatar image if `author.gravatarEmail` is filled
         picture = "img/icons8-pixel-heart.png"
-        # Your Twitter username without the @. E.g : thibaudlepretre
-        # twitter = "thibaudlepretre"
-        # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
-        # googlePlus = "+ThibaudLepretre"
+        secret = "Tady nič nie je :))"
 
     [[languages.sk.menu.main]]
       weight = 1
       identifier = "home"
-      name = "Domů"
+      name = "Domov"
       pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
       url = "/"
 
     [[languages.sk.menu.main]]
       weight = 2
-      identifier = "about"
-      name = "O nás"
-      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-      url = "/#about"
+      identifier = "info"
+      name = "Informácie"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
+      url = "./info"
 
     [[languages.sk.menu.main]]
       weight = 3
+      identifier = "about"
+      name = "O Nás"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+      url = "./about-us"
+
+    [[languages.sk.menu.main]]
+      weight = 4
+      identifier = "contact"
+      name = "Kontakt"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-address-book\" aria-hidden=\"true\"></i>"
+      url = "./contact"
+
+    [[languages.sk.menu.main]]
+      weight = 5
       identifier = "github"
       name = "GitHub"
       pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
       url = "https://github.com/holoubekm/holoubkovi"
 
     [[languages.sk.menu.misc]]
-      weight = 4
+      weight = 6
       identifier = "slovakian"
       name = "Slovensky"
       pre = "<i class=\"sidebar-button-icon fi fi-sk\" aria-hidden=\"true\"></i>"
-      url = "../sk/main"
+      url = "../sk/"
 
     [[languages.sk.menu.misc]]
-      weight = 5
+      weight = 7
       identifier = "czech"
       name = "Česky"
       pre = "<i class=\"sidebar-button-icon fi fi-cz\" aria-hidden=\"true\"></i>"
-      url = "../cs/main"
+      url = "../cs/"
 
     [[languages.sk.menu.misc]]
-      weight = 6
+      weight = 8
       identifier = "english"
       name = "English"
       pre = "<i class=\"sidebar-button-icon fi fi-us\" aria-hidden=\"true\"></i>"
-      url = "../en/main"
+      url = "../en/"
 
 
   [languages.en]
@@ -182,6 +196,7 @@ canonifyurls = true
         job = "17.8.2024"
         location = "Jitkovský Mlýn"
         picture = "img/icons8-pixel-heart.png"
+        secret = "Nothing to see here :))"
 
     [[languages.en.menu.main]]
       weight = 1
@@ -192,38 +207,52 @@ canonifyurls = true
 
     [[languages.en.menu.main]]
       weight = 2
-      identifier = "about"
-      name = "About Us"
-      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-      url = "/#about"
+      identifier = "info"
+      name = "Info"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-info\" aria-hidden=\"true\"></i>"
+      url = "./info"
 
     [[languages.en.menu.main]]
       weight = 3
+      identifier = "about"
+      name = "About Us"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+      url = "./about-us"
+
+    [[languages.en.menu.main]]
+      weight = 4
+      identifier = "contact"
+      name = "Contact"
+      pre = "<i class=\"sidebar-button-icon fas fa-lg fa-address-book\" aria-hidden=\"true\"></i>"
+      url = "./contact"
+
+    [[languages.en.menu.main]]
+      weight = 5
       identifier = "github"
       name = "GitHub"
       pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
       url = "https://github.com/holoubekm/holoubkovi"
 
     [[languages.en.menu.misc]]
-      weight = 4
+      weight = 6
       identifier = "slovakian"
       name = "Slovensky"
       pre = "<i class=\"sidebar-button-icon fi fi-sk\" aria-hidden=\"true\"></i>"
-      url = "../sk/main"
+      url = "../sk/"
 
     [[languages.en.menu.misc]]
-      weight = 5
+      weight = 7
       identifier = "czech"
       name = "Česky"
       pre = "<i class=\"sidebar-button-icon fi fi-cz\" aria-hidden=\"true\"></i>"
-      url = "../cs/main"
+      url = "../cs/"
 
     [[languages.en.menu.misc]]
-      weight = 6
+      weight = 8
       identifier = "english"
       name = "English"
       pre = "<i class=\"sidebar-button-icon fi fi-us\" aria-hidden=\"true\"></i>"
-      url = "../en/main"
+      url = "../en/"
 
 
 # [permalinks]
@@ -378,7 +407,7 @@ canonifyurls = true
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image, for example `cover.jpg` in folder `static/images/`,
   # and use relative url : `images/cover.jpg`
-  coverImage = "img/pexels-pedro-dutra-11154746.jpg"
+  coverImage = "img/pexels-edwin-pérez-12330573-2.jpg"
 
   mainBackgroundImage = "img/group-R6.png"
 
@@ -579,3 +608,16 @@ canonifyurls = true
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
    # [params.footer]
    #   copyright = "Společně až ke hvězdám"
+
+
+[imaging]
+  [imaging.exif]
+    disableDate = true
+    disableLatLong = true
+    excludeFields = ".*"
+
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'box'
+
