@@ -16,15 +16,14 @@ showActions: false
 <!-- # Obsah -->
 <!-- {{< toc >}} -->
 
-
 # Lokalita {#location}
 
 Pro svatbu jsme zvolili areál bývalé zemědělské usedlosti a mlýna - Jitkovský mlýn. Patří k němu přidružená stodola, zázemí, ubytování a také rybník. To vše je zasazeno do krásné scenérie Vysočiny.
 
 ## Doprava
-* **Autem**: Penzion Jitkovský Mlýn, 583 01 Jitkov, Chotěboř
-* **Vlakem**: Havlíčkův Brod (cca 16km od cíle)
-* **Autobusem**: Havlíčkův Brod (vlakové / autobusové nádr.) → Jitkov (cca 30m)
+* **Autem**: [Penzion Jitkovský Mlýn, 583 01 Jitkov, Chotěboř](https://maps.app.goo.gl/t3c9E3JsmUwDNnis8)
+* **Vlakem**: [Havlíčkův Brod (cca 16km od cíle)](https://maps.app.goo.gl/D9JTip2fSDKkp3XQ6)
+* **Autobusem**: [Havlíčkův Brod (vlakové / autobusové nádr.) → Jitkov (cca 30m)](https://maps.app.goo.gl/p2fNhcy6wsdjsasZ8)
 
 Během dne i noci bude jezdit svoz. Pokud nemáte vhodnout dopravu, nebo si nejste jistí, tak se na nás [obraťte](../contact).
 

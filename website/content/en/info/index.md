@@ -21,9 +21,9 @@ showActions: false
 We have chosen the area of a former agricultural homestead and mill - Jitkovský mill for the wedding. It includes an adjoining barn, facilities, accommodation and also a pond. All this is set in the beautiful scenery of Vysočina.
 
 ## Transportation
-* **By car**: Pension Jitkovský Mlýn, 583 01 Jitkov, Chotěboř
-* **By train**: Havlíčkův Brod (approx. 16km from the destination)
-* **By bus**: Havlíčkův Brod (train / bus station) → Jitkov (approx. 30m)
+* **By car**: [Pension Jitkovský Mlýn, 583 01 Jitkov, Chotěboř](https://maps.app.goo.gl/t3c9E3JsmUwDNnis8)
+* **By train**: [Havlíčkův Brod (approx. 16km from the destination)](https://maps.app.goo.gl/D9JTip2fSDKkp3XQ6)
+* **By bus**: [Havlíčkův Brod (train / bus station) → Jitkov (approx. 30m)](https://maps.app.goo.gl/p2fNhcy6wsdjsasZ8)
 
 A shuttle will run during the day and night. If you do not have suitable transportation, or are not sure, please [contact us](../contact).
 
