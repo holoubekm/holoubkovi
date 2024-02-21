@@ -35,7 +35,7 @@ showActions: false
         <tr></tr>
         <tr>
             <td>Domi</td>
-            <td>+420 XXX XXX XXX</td>
+            <td>+420 724 875 203</td>
             <td>dominika.hubova / @ / gmail.com</td>
         </tr>
         <tr>
