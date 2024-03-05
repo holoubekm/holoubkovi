@@ -20,9 +20,9 @@ url: ./
 
 # Čože, ktože, svadba?!
 
-Už je to tak.. Dominika sa nezľakla a povedala áno.
+Už je to tak... Dominika sa nezľakla a povedala áno.
 
-Veľmi si vážime, že s nami chcete stráviť náš slávnostný deň. Preto sme spolu vytvorili túto webovú stránku, aby sme to všetkým uľahčili.
+Veľmi si vážime, že s nami chcete stráviť náš slávnostný deň. Preto sme vytvorili túto webovú stránku, aby sme to všetkým uľahčili.
 
 **Tešíme sa na Vás 17. 8. 2024 v prostredí Jitkovského mlyna kúsok od Chotěboře**
 
@@ -35,6 +35,6 @@ A čo sa na stránkach napríklad dozviete?
 * [Bude sa točiť Plzeň alebo Braníček?](info/#menu-and-beverages)
 * [... a mnoho ďalšieho](info/#organisation)
 
-Tešíme sa na všetkych!
+Tešíme sa na Vás!
 
 <p style="margin: 0px; "> &nbsp; </p>

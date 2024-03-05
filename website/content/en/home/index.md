@@ -20,9 +20,9 @@ url: ./
 
 # What, who, a wedding?!
 
-It's true.. Dominika was not scared enough and said yes.
+It's true... Dominika was not scared enough and said yes.
 
-We really appreciate that you want to spend our special day with us. Therefore, we crafted this website together to make it easier for everyone.
+We really appreciate that you want to spend our special day with us. Therefore, we crafted this website to make it easier for everyone.
 
 **We are looking forward to seeing you on August 17, 2024 at Jitkovský Mlýn, a short distance from Chotěboř**
 
@@ -35,6 +35,6 @@ And what will you find out on the pages for example?
 * [Will there be Pilsner or Braníček beer on tap?](info/#menu-and-beverages)
 * [... and much more](info/#organisation)
 
-We are looking forward to everyone!
+We are looking forward to you!
 
 <p style="margin: 0px; "> &nbsp; </p>

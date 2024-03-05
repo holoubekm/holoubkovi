@@ -18,64 +18,77 @@ showActions: false
 
 # Location {#location}
 
-We have chosen the area of a former agricultural homestead and mill - Jitkovský mill for the wedding. It includes an adjoining barn, facilities, accommodation and also a pond. All this is set in the beautiful scenery of Vysočina.
+The wedding will take place at the former agricultural farm and mill, located near the small village of Jitkov. The premises include an old barn, a vast courtyard, a guest-house with apartments and facilities for guests and visitors, a pond, and the surrounding meadows. All of this is nestled within the beautiful scenery of the Vysočina region.
 
-## Transportation
+## Transport
 * **By car**: [Pension Jitkovský Mlýn, 583 01 Jitkov, Chotěboř](https://maps.app.goo.gl/t3c9E3JsmUwDNnis8)
 * **By train**: [Havlíčkův Brod (approx. 16km from the destination)](https://maps.app.goo.gl/D9JTip2fSDKkp3XQ6)
-* **By bus**: [Havlíčkův Brod (train / bus station) → Jitkov (approx. 30m)](https://maps.app.goo.gl/p2fNhcy6wsdjsasZ8)
+* **By bus**: [Havlíčkův Brod (train / bus station) → Jitkov (approx. 30 min)](https://maps.app.goo.gl/p2fNhcy6wsdjsasZ8)
 
-A shuttle will run during the day and night. If you do not have suitable transportation, or are not sure, please [contact us](../contact).
+Transportation can be provided throughout the day and night. If you are struggling with the mode of transport, or are not sure hoe to get to the venue, please [contact us](../contact).
 
-<iframe style="border:none" src="https://en.frame.mapy.cz/s/kugepegohe" width="100%" height="400" frameborder="0"></iframe>
+## Parking 
+Parking is available right on the premises of the mill on the adjoining meadow.
+
+<iframe style="border:none" src="https://frame.mapy.cz/s/rederorube" width="100%" height="400" frameborder="0"></iframe>
 
 {{< alert warning >}}
-**Note:** Mobile internet does not work well at the location of Jitkovský mill. Join us for a detox cure.
+**Attention:** Mobile internet doesn't work very well at the Jitkov mill site. Join us for a digital detox.
 {{< /alert >}}
 
-# How to get ready? {#how-to-get-ready}
-
 # Accommodation {#accomodation}
- 
-**No need for accommodation, we won't go to sleep. Except for the groom, he promised to go to bed at 10.**
 
-{{< hl-text green >}}And now seriously.{{< /hl-text >}} If you are from nearby and have the possibility to spend the night at home, with your parents, or friends, we would ask you to take advantage of this opportunity.
+**No need for accommodation, we're not going to sleep. Except for the groom, he promised to go to bed at 10.**
 
-The Jitkovský mill premises can accommodate about 30 people. It will be mainly occupied by the preparation and support team and also by friends from abroad.
+{{< hl-text green >}}And now seriously.{{< /hl-text >}} If you live nearby and have the possibility to stay at home, with your parents, or friends, we would appreciate if you could take advantage of that.
 
-Accommodation in Světlá nad Sázavou is prepared for friends from Slovakia.
+At the Jitkov mill, there is accommodation for around 30 people. It will be occupied primarily by the organizing and supporting team, and long-distance friends.
 
-If there is interest, we can prepare a tent on the meadow :))
+For the family from Slovakia, accommodation in peace and privacy is available in Světlá nad Sázavou for the whole weekend.
 
-We try to arrange with everyone individually. However, if you are not sure, do not hesitate and [let us know](../contact)!
+For anyone interested, we can also set up a tent on the meadow 😊
 
-# What is the plan for the day? {#the-day}
+We try to arrange everything individually with everyone. However, if you're unsure, don't hesitate to [call us](../contact)!
 
-We are preparing a traditional ceremony, lunch, a party, including games for children and everyone!
+# What's the plan for the day? {#the-day}
 
-We still don't know 🙉
+The most crucial point of the program - the wedding ceremony itself - is scheduled for noon. It will take place directly at the mill. If the weather is good, it will happen by the pond under a beautiful old oak tree. In case of bad weather... well, we'll see, but you certainly won't need to worry about not being able to find the ceremony location 😊 We'll meet at the mill between 11:30 - 11:45, the ceremony location won't be far from the main building.
+
+After the ceremony, congratulations and group photographs will take place. Then we'll move to the wedding table, where we'll listen to speeches and toast, and finally, (at last!) we'll feast. A traditional wedding soup will be served, followed by everyone choosing something tasty from the lunch buffet. 
+
+The further program is still being prepared, but you can certainly look forward to the cake cutting, bouquet tossing, first dance, and a merry band, as well as games, not only for children but also for adults. 
 
 # Refreshments {#menu-and-beverages}
 
-We are preparing a flood of delicacies for you, including lunch, which will be served partly as a buffet.
+In addition to the lunch soup (traditional beef broth with dumplings), refreshments will be served buffet-style, where hopefully everyone will be able to find something tasty 😊 A selection of meat and vegetarian dishes covering almost the entire range of preferences will be available. There will also be a sweet finish in the form of a wedding cake and some pastries or fruit.
 
-Drinks and draft [Bernard](https://www.bernard.cz/) will also be ready.
+If you have any food allergy, please let us know, so we could also ensure safe food options for you.
 
-# Organizational questions {#organisation}
+To drink, we will have carafes of water, local draft [Bernard](https://www.bernard.cz/) beer and lemonade, wine, and also some alcoholic and non-alcoholic drinks.
 
-### What to do if I can't arrive? Will you be mad?
+# What to wear?
 
-Just a little bit :) No problem. [Just let Martin or Vojta know and that's it :))](../contact)
+As the wedding will take place in the less formal environment of a mill, we are not requiring a strictly formal dress 😊 Wear something in which you will feel comfortable and beautiful and in which you can celebrate with us perhaps even until sunrise. 
 
-### I would like to bring you a wedding gift. Which one?
+When selecting your attire, remember that both the wedding and the reception will predominantly be held outdoors, regardless of the weather conditions (don't worry, we won't get wet, roof under which to find shelter from rain will be provided). Hence, we kindly request you to bring something warm just in case it gets colder.
 
-Thank you very much, really! But we both feel that we would like to avoid material gifts. Let's enjoy the day together, forget about the problems of the real world and switch off in the environment of the old mill.
+Also, bear in mind that the venue is mostly covered by lawns, gravel, and cobblestones. We won't blame you if you decide to leave your high heels at home 😊
 
-> If you insist on some form of gift, of course, we won't frown. In that case, a small financial injection would please us :)
+# Organizational Questions {#organisation}
 
-### Can I bring children with me?
+### What if I can't make it? Will you be upset?
 
-Sure! We have prepared a children's corner, some games and fun for our little friends :)) There is nature and exhaustion all around :))
+Just a little 😊 Really, nothing to worry about. [Just let Martin or Dominika know and it's all good 😊](../contact)
+
+### We would like to bring you a wedding gift. What kind?
+
+Thank you very much, really! However, we both feel that we would prefer to avoid material gifts. Let's enjoy the day together, forget about the troubles of the real world, and relax in the surroundings of the old mill and nature.
+
+> If you insist on giving us some form of a gift, we will certainly not frown upo it. In such cases, we would appreciate a small financial contribution 😊 
+
+### Can we bring our children?
+
+Sure! Children are more than welcome at our wedding. 😊 There will be a small play-house available with a children's corner and an outdoor playground, and the vast grounds are perfect for lengthy wanderings and exploration.
 
 # Nerdy Corner
 
