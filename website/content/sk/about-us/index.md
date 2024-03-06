@@ -20,7 +20,7 @@ Naši priatelia, blízki a jednoducho ľudia, s ktorými by sme chceli tráviť 
 
 # A kto sme my? 👩‍❤️‍👨 {#who-are-we}
 
-Ahoj! Sme chalan a dievča, ktorí sa rozhodli, že chcú byť spolu, už navždy... alebo aspoň do prvej väčšej hádky 😅. Boli by sme veľmi radi, keby ste boli pri tom s nami.
+Ahoj! Sme chlapec a dievča, ktorí sa rozhodli, že chcú byť spolu, už navždy... alebo aspoň do prvej väčšej hádky 😅. Boli by sme veľmi radi, keby ste boli pri tom s nami.
 
 ## Dominika
 
@@ -36,22 +36,19 @@ Domi skvele pečie, varí, má rada pohárik bieleho vína. Ale zo všetkého na
 
 {{< image classes="fancybox left fig-50" src="smiling-creature.jpeg" title="Smiešna papľuha!" >}}
 
-Marťas je niečo ako druhý Hitler.. len bez fúzikov. Mračí sa keď má hlad, inokedy sa zase infantilne smeje. Je na zabitie. 
+Martínek bol od malička veľmi zvedavé a energické dieťa, o čom svedčí aj hromada encyklopédií v jeho detskej izbe a množstvo zábavných príbehov o viac či menej (ne)bezpečných pokusoch, ktoré sa robili v dielni jeho prastarého otca. Ak sa ho opýtate, určite Vám rád nejakú tú historku či dve porozpráva.
 
-Najlepšie ho vystihuje nasledujúci text.
+Jeho osud bol spečatený na Vianoce 2002, keď si spolu s bratom pod stromčekom rozbalili svoj vôbec prvý stolný počítač. Pri hraní hier Age of Mythology, Pharaoh a GTA sa v ňom prebudila túžba pochopiť, ako to všetko vo vnútri funguje. To viedlo Marťasa až k štúdiu na Fakulte informačných technológií ČVUT, kde sa zameral na teoretickú informatiku a bezpečnosť.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum turpis vel leo ornare, eget dapibus metus ullamcorper. Morbi commodo, lacus a placerat facilisis, tellus libero lobortis augue, vitae luctus mi nunc ac sem. Suspendisse iaculis odio purus, ac aliquet erat vehicula sit amet. 
-
-Fusce sed vehicula lacus. Nunc lobortis in tortor laoreet porta. Cras non erat felis. In aliquet lectus lorem, et elementum orci convallis eget. Suspendisse id erat tellus. 
-
+Marťasova vášeň pre technológie pretrváva dodnes, ale je toho ešte veľa, čo ho vystihuje. Neutíchajúci zmysel pre humor, ktorý očaril mnohých z nás, nevyčerpateľná energia za dvoch, ktorú si najradšej vybíja plávaním, bicyklovaním  či behaním, schopnosť citovať Simpsonovcov v každej situácii alebo nekonečná trpezlivosť, ktorá sa prejavuje napríklad vtedy, keď Dominika prinesie domov zase ďalšiu rastlinku. To všetko a ešte oveľa viac.
 
 ## My
 
 Bol mrazivý január 2021 a ja som sedel v čajovni U Zlatého Kohúta. Čakal som, kým dorazí moje rande a v hlave premýšľal (kde inde teda).
 
-"Aká asi bude? Ako bude vyzerať? Nebudem sa pred matfyzačkou zo Slovenska cítiť trochu hlúpo?"
+"Aká asi bude? Ako bude vyzerať? Nebudem sa pred matfyzáčkou zo Slovenska cítiť trochu hlúpo?"
 
-Do tepla miestnosti vošla drobná slečna v chundelatej čiapke a usmiala sa na mňa. O chvíľu sme sa smiali už obaja a dúfam, že sa smiať neprestaneme. Nezabudnem, že Dominika hneď na prvom rande stratila čiapku, zakopla a potom nevedela, ako sa na konci lúčiť. Je úplne normálna a preto ju milujem.
+Do tepla miestnosti vošla drobná slečna v chundelatej čiapke a usmiala sa na mňa. O chvíľu sme sa smiali už obaja a dúfam, že sa smiať neprestaneme. Nezabudnem, že Dominika hneď na prvom rande stratila čiapku, zakopla a potom nevedela, ako sa na konci prvého rande lúči. Je úplne normálna a preto ju milujem.
 
 <p style="margin: 0px; "> &nbsp; </p>
 {{< image src="two-of-us.jpeg" title="A to sme my!" >}}
