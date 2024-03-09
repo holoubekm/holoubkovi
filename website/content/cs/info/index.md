@@ -48,23 +48,23 @@ Pro rodinu ze Slovenska je připraveno ubytování v klidu a soukromí ve Světl
 
 Pokud by byl zájem, tak můžeme na louce připravit stan 😊
 
-Se všemi se snažíme domluvit individuálně. Pokud si však nejste jistí, neváhejte a [zavolej](../contact)!
+Se všemi se snažíme domluvit individuálně. Pokud si však nejste jistí, neváhejte a [zavolejte nám](../contact)!
 
 # Jaký je plán dne? {#the-day}
 
 Nejdůležitější bod programu – samotný svatební obřad - nás čeká v pravé poledne. Uskuteční se přímo v areálu mlýna, za dobrého počasí u rybníku pod krásným starým dubem, za horšího počasí… no, uvidíme, ale v každém případě se nemusíte obávat, že byste místo obřadu nenašli 😊 U mlýna se sejdeme mezi 11:30 - 11:45, k obřadnému místu to od budovy mlýna není daleko.
 
-Po obřadu budou následovat gratulace a společné focení. Pak se přesuneme ke svatební tabuli, kde si poslechneme proslovy s přípitkem a pak se (konečně!) pustíme do jídla. Servírovaná bude tradiční svatební polévka a pak si každý bude moct vybrat něco dobrého z oběda podávaného trochu netradičně formou rautu. 
+Po obřadu budou následovat gratulace a společné focení. Pak se přesuneme ke svatební tabuli, kde si poslechneme proslovy s přípitkem a pak se (konečně!) pustíme do jídla (orientačně to odhadujeme tak na 13:30). Servírovaná bude tradiční svatební polévka a pak si každý bude moct vybrat něco dobrého z oběda podávaného trochu netradičně formou rautu. 
 
-Další program je zatím ještě v přípravě, ale rozhodně se můžete těšit na krájení dortu, házení kyticí, první tanec a veselku s kapelou, a taky na hry, a to nejen pro děti, ale i pro dospělé. 
+Další program je zatím ještě v přípravě, ale rozhodně se můžete těšit na krájení dortu, házení kyticí, první tanec a veselku s kapelou, a taky na hry, a to nejen pro děti, ale i pro dospělé 😊
 
 # Občerstvení {#menu-and-beverages}
 
 Kromě obědové polévky (tradiční hovězí vývar s knedlíčky) bude občerstvení podáváno formou rautu, ze kterého si vybere něco dobrého snad každý 😊 K ochutnání bude na výběr z masových i vegetariánských pokrmů, které budou pokrývat skoro celou paletu preferencí. Nebude chybět ani sladká tečka ve formě svatebního dortu a nějakého toho zákusku nebo ovoce.
 
-Pokud trpíte nějakou potravinovou alergii, prosím, ozvěte se nám, abychom pro Vás taky mohli zabezpečit nějakou bezpečnou variantu občerstvení.
+Pokud trpíte nějakou potravinovou alergii, prosím, ozvěte se nám, abychom i pro Vás mohli zabezpečit nějakou bezpečnou variantu občerstvení.
 
-K pití pro Vás budeme mít karafy s vodou, točený [Bernard](https://www.bernard.cz/) a bezinkovou limonádu, víno a i nějaké alko a nealko drinky. 
+K pití pro Vás budeme mít karafy s vodou, točený [Bernard](https://www.bernard.cz/) a točenou bezinkovou limonádu, víno a i nějaké alko a nealko drinky. K dispozici bude taky kávovar a čaje.
 
 # Co na sebe?
 
@@ -72,13 +72,13 @@ Jelikož svatba bude v méně formálním prostředí mlýna, netrváme na žád
 
 Při výběre myslete i na to, že svatba i veselka se budou konat převážně venku, a to i v případě horšího počasí (i když nebojte, moknout nebudeme, nějaká střecha pod kterou se schováme se tam najde) – proto moc prosíme, aby jste si v případě potřeby sebou přinesli i něco teplého na sebe, ať Vám není zima. 
 
-A ještě malý detail ke vhodné volbě obuvi - v areálu jsou převážně trávníky, štěrk a dlažební kocky. Nikdo Vám tedy nebude zazlívat, když vysoké opatky necháte doma 😊
+A ještě malý detail ke vhodné volbě obuvi - v areálu jsou převážně trávníky, štěrk a dlažební kocky. Nikdo Vám tedy nebude zazlívat, když vysoké podpatky necháte doma 😊
 
 # Organizační otázky {#organisation}
 
 ### Co dělat, pokud nemůžu dorazit? Budete se zlobit?
 
-Jen trošku 😊 Nic se neděje. [Stačí se ozvat Martinovi alebo Dominike a je to 😊 ](../contact)
+Jen trošku 😊 Nic se neděje. [Stačí se ozvat Martinovi alebo Dominice a je to 😊](../contact)
 
 ### Rádi bychom Vám vzali svatební dárek. Jaký?
 

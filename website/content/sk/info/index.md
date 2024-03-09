@@ -56,9 +56,9 @@ So všetkými sa snažíme dohodnúť individuálne. Ale ak si nie ste istí, ne
 
 Najdôležitejší bod programu - samotný svadobný obrad - nás čaká na pravé poludnie. Uskutoční sa priamo v areáli mlyna, za dobrého počasia pri rybníku pod krásnym starým dubom, za horšieho počasia... no, uvidíme, ale v každom prípade sa nemusíte báť, že by ste miesto obradu nenašli 😊 Stretneme sa pri mlyne medzi 11:30 - 11:45, od budovy mlyna to na miesto obradu nie je ďaleko.
 
-Po obrade budú nasledovať gratulácie a spoločné fotografovanie. Následne sa presunieme k svadobnej tabuli, kde si vypočujeme príhovory s prípitkom a potom sa (konečne!) pustíme do jedla. Podávať sa bude tradičná svadobná polievka a potom si každý bude môcť vybraŤ niečo dobrého z obeda podávaného trochu netradične formou bufetu. 
+Po obrade budú nasledovať gratulácie a spoločné fotografovanie. Následne sa presunieme k svadobnej tabuli, kde si vypočujeme príhovory s prípitkom a potom sa (konečne!) pustíme do jedla (orientačne to odhadujeme tak na 13:30). Podávať sa bude tradičná svadobná polievka a potom si každý bude môcť vybrať niečo dobrého z obeda servírovaného trochu netradične formou bufetu. 
 
-Zvyšok programu je ešte v štádiu plánovania, ale určite sa môžete tešiť na krájanie torty, hádzanie kytice, prvý tanec a veselie s kapelou, ako aj hry nielen pre deti, ale aj pre dospelých.
+Zvyšok programu je ešte v štádiu plánovania, ale určite sa môžete tešiť na krájanie torty, hádzanie kytice, prvý tanec a vesielku s kapelou, ako aj hry, a to nielen pre deti, ale aj pre dospelých.
 
 # Občerstvenie {#menu-and-beverages}
 
@@ -66,13 +66,13 @@ Okrem obedovej polievky (tradičný hovädzí vývar s knedličkami) sa bude pod
 
 Ak máte nejaké potravinové alergie, ozvite sa nám, aby sme mohli zabezpečiť nejaké bezpečné možnosti občerstvenia aj pre Vás.
 
-Na pitie pre Vás budeme mať pripravené karafy s vodou, miestny čapovaný [Bernard](https://www.bernard.cz/) a bezinkovú limonádu, víno a nejaké alko i nealko nápoje.
+Na pitie pre Vás budeme mať pripravené karafy s vodou, miestny čapovaný [Bernard](https://www.bernard.cz/) a bezinkovú limonádu, víno a nejaké alko i nealko nápoje. K dispozícií bude tiež kávovar a čaje.
 
 # Čo si obliecť?
 
 Keďže svadba bude v menej formálnom prostredí mlyna, netrváme na žiadnom plesovom oblečení 😊 Oblečte si niečo, v čom sa budete cítiť pohodlne a príjemne a v čom sa s nami vydržíte baviť až do rána. 
 
-Pri výbere majte na pamäti aj to, že svadba a veselka sa bude konať prevažne vonku, a to aj v prípade horšieho počasia (ale nemusíte sa báŤ, nezmokneme, nejaká tá strecha, pod ktorou sa budeme môcť schovať, sa tam nájde) - preto si v prípade potreby vezmite aj niečo teplé na seba, aby Vám nebola zima. 
+Pri výbere majte na pamäti aj to, že svadba a veselka sa bude konať prevažne vonku, a to aj v prípade horšieho počasia (ale nemusíte sa báť, nezmokneme, nejaká tá strecha, pod ktorou sa budeme môcť schovať, sa tam nájde) - preto si v prípade potreby vezmite aj niečo teplé na seba, aby Vám nebola zima. 
 
 A ešte jeden detail k voľbe vhodnej obuvi - v areáli je prevažne tráva, štrk a dlažobné kocky. Takže Vám nikto nebude mať za zlé, ak vysoké podpätky necháte doma 😊
 
@@ -82,7 +82,7 @@ A ešte jeden detail k voľbe vhodnej obuvi - v areáli je prevažne tráva, št
 
 Len trošku 😊 Nič sa nedeje. [Stačí sa ozvať Martinovi alebo Dominike a je to 😊](../contact)
 
-### Rádi by sme Vám dali svadobný dar. Aký?
+### Radi by sme Vám dali svadobný dar. Aký?
 
 Veľmi ďakujeme, naozaj! Oba ale cítime, že by sme sa hmotným darom najradšej vyhli. Poďme si spoločne užiť deň, zabudnúť na problémy reálneho sveta a vypnúť v prostredí starého mlyna. 
 

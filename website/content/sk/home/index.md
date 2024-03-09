@@ -30,11 +30,11 @@ A čo sa na stránkach napríklad dozviete?
 * [Kto sme my a tiež kto ste vy :))](about-us/#who-are-you)
 * [Kde sa svadba koná](info/#location)
 * [Ako sa na nás pripraviť](info/#how-to-get-ready)
-* [Ako to bude so spaním?](info/#accomodation)
-* [Čo budeme celý deň robiť?](info/#the-day)
-* [Bude sa točiť Plzeň alebo Braníček?](info/#menu-and-beverages)
+* [Ako to bude so spaním](info/#accomodation)
+* [Čo budeme celý deň robiť](info/#the-day)
+* [Bude sa čapovať Plzeň alebo Braníček?](info/#menu-and-beverages)
 * [... a mnoho ďalšieho](info/#organisation)
 
-Tešíme sa na Vás!
+Tešíme sa na Vás všetkých!
 
 <p style="margin: 0px; "> &nbsp; </p>

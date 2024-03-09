@@ -50,7 +50,7 @@ showActions: false
         </tr>
         <tr></tr>
         <tr>
-            <td>Paulinka</td>
+            <td>Paulínka</td>
             <td>+420 XXX XXX XXX</td>
             <td></td>
         </tr>

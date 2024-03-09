@@ -54,7 +54,7 @@ We try to arrange everything individually with everyone. However, if you're unsu
 
 The most crucial point of the program - the wedding ceremony itself - is scheduled for noon. It will take place directly at the mill. If the weather is good, it will happen by the pond under a beautiful old oak tree. In case of bad weather... well, we'll see, but you certainly won't need to worry about not being able to find the ceremony location 😊 We'll meet at the mill between 11:30 - 11:45, the ceremony location won't be far from the main building.
 
-After the ceremony, congratulations and group photographs will take place. Then we'll move to the wedding table, where we'll listen to speeches and toast, and finally, (at last!) we'll feast. A traditional wedding soup will be served, followed by everyone choosing something tasty from the lunch buffet. 
+After the ceremony, congratulations and group photographs will take place. Then we'll move to the wedding table, where we'll listen to speeches and toast, and finally, (at last!) we'll feast (we tentatively estimate it to be arount 13:30). A traditional wedding soup will be served, followed by everyone choosing something tasty from the lunch buffet. 
 
 The further program is still being prepared, but you can certainly look forward to the cake cutting, bouquet tossing, first dance, and a merry band, as well as games, not only for children but also for adults. 
 
@@ -62,9 +62,9 @@ The further program is still being prepared, but you can certainly look forward 
 
 In addition to the lunch soup (traditional beef broth with dumplings), refreshments will be served buffet-style, where hopefully everyone will be able to find something tasty 😊 A selection of meat and vegetarian dishes covering almost the entire range of preferences will be available. There will also be a sweet finish in the form of a wedding cake and some pastries or fruit.
 
-If you have any food allergy, please let us know, so we could also ensure safe food options for you.
+If you have any food allergy, please let us know, so we could ensure safe food options also for you.
 
-To drink, we will have carafes of water, local draft [Bernard](https://www.bernard.cz/) beer and lemonade, wine, and also some alcoholic and non-alcoholic drinks.
+To drink, we will have carafes of water, local draft [Bernard](https://www.bernard.cz/) beer and lemonade, wine, and also some alcoholic and non-alcoholic drinks. A coffee machine will be available, as well as an assortment of teas.
 
 # What to wear?
 
@@ -88,7 +88,7 @@ Thank you very much, really! However, we both feel that we would prefer to avoid
 
 ### Can we bring our children?
 
-Sure! Children are more than welcome at our wedding. 😊 There will be a small play-house available with a children's corner and an outdoor playground, and the vast grounds are perfect for lengthy wanderings and exploration.
+Sure! Children are more than welcome at our wedding 😊 There will be a small play-house available with a children's corner and an outdoor playground, and the vast grounds are perfect for lengthy wanderings and exploration.
 
 # Nerdy Corner
 

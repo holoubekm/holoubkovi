@@ -35,6 +35,6 @@ And what will you find out on the pages for example?
 * [Will there be Pilsner or Braníček beer on tap?](info/#menu-and-beverages)
 * [... and much more](info/#organisation)
 
-We are looking forward to you!
+We are looking forward to you all!
 
 <p style="margin: 0px; "> &nbsp; </p>

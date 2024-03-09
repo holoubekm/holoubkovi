@@ -28,9 +28,9 @@ Hello! We are a lad and a girl who decided that they want to be together, foreve
 
 Dominika has been casting charms since childhood, first she learned to read by herself and then settled in the world of Harry Potter ⚡️. Even a bilingual French grammar school did not prevent her from fulfilling her dreams. She continued her studies at the Faculty of Mathematics and Physics in the field of Theoretical Physics. If you want to make her happy, you can ask her about binary stars and how it is possible that they don't bump into each other after a few spins.
 
-Lately, Dominika is becoming a passionate cross-country runner, a responsible driver, and also a data analyst. If you want to compete, she will be happy to see you at the September run in Klánovice.
+Lately, Dominika is becoming a passionate cross-country runner, a responsible driver, and also a data engineer. If you want to compete, she will be happy to see you at the October half-marathon in Klánovice.
 
-Domi bakes and cooks wonderfully, appreciates a book and glass of white wine. But most of all, she loves her stuffed animals, flowers, and sometimes Martas (when he's not naughty).
+Domi bakes and cooks wonderfully, appreciates a book and glass of white wine. But most of all, she loves her books, flowers, and sometimes Martas (when he's not naughty).
 
 ## Marťas
 
