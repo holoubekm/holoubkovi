@@ -51,8 +51,8 @@ showActions: false
         <tr></tr>
         <tr>
             <td>Paulínka</td>
-            <td>+420 XXX XXX XXX</td>
-            <td></td>
+            <td>+421 949 832 791</td>
+            <td>p.jalaksova / @ / gmail.com</td>
         </tr>
     </tbody>
 </table>
